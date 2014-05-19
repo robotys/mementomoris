@@ -22,5 +22,9 @@ instagram api:
 > https://api.instagram.com/v1/tags/hashtag/media/recent
 > https://api.instagram.com/v1/users/1574083/media/recent
 
+twitter api:
+> https://api.twitter.com/1.1/search/tweets.json?q=%23villagepeople
+
+(%23 for # and %20 for @)
 
 **LICENSE : MIT**
