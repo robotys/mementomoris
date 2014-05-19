@@ -18,4 +18,9 @@ Cara guna:
 
 All things is local. Pics sedut daripada instagram. Setup just for that pc+browser. Lain pc lain setup. Boleh save settings and upload kemudian.
 
+instagram api:
+> https://api.instagram.com/v1/tags/hashtag/media/recent
+> https://api.instagram.com/v1/users/1574083/media/recent
+
+
 **LICENSE : MIT**
